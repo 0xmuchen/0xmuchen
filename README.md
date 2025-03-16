@@ -5,7 +5,7 @@ Hi, my name is Mykola (but you can call me Nick 🙂) <br>
 With over 6 years of experience as a QA Engineer, I've worked across fintech, e-commerce, iGaming, and Web3.
 
 
-I truly believe that <strong>"The only way to do great work is to love what you do,"</strong> as Steve Jobs once said. 
+I truly believe that <strong>"The only way to do great work is to love what you do,"</strong> as Steve Jobs once said. <br>
 This mindset drives me to bring energy and enthusiasm to every project, always aiming to tackle challenges and deliver the best results.
 </p>
 
