@@ -20,8 +20,7 @@ I thrive on ensuring the highest quality and delivering real value to both teams
   <li> ✅ Smart Contract Testing & Auditing</li>
 </ul>
 
-![snake gif]
-(https://github.com/0xmuchen/0xmuchen/blob/gh-pages/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake.svg)
 
 
 
