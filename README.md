@@ -7,6 +7,7 @@ I’m passionate about what I do, and I’m grateful to have the opportunity to 
 I thrive on ensuring the highest quality and delivering real value to both teams and end-users
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake-dark.svg)
 
 
 <h2>🎯 Expertise Scope</h2>
@@ -19,8 +20,6 @@ I thrive on ensuring the highest quality and delivering real value to both teams
   <li> ✅ Basics of Security & Penetration Testing</li>
   <li> ✅ Smart Contract Testing & Auditing</li>
 </ul>
-
-![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake-dark.svg)
 
 
 <h2> Day-to-Day Responsibilities:</h2>
