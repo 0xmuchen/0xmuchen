@@ -2,9 +2,9 @@
 <p align="left">
 Hi, my name is Mykola (but you can call me Nick 🙂) <br>
   
-I'm a QA Engineer with over 6 years of experience across various domains, including fintech, e-commerce, iGaming, and Web3 <br> 
-
-I'm passionate about what I do and thrive on new challenges <br>
+With over 6 years of experience as a QA Engineer, I've worked across fintech, e-commerce, iGaming, and Web3.
+    
+<strong>"The only way to do great work is to love what you do,"</strong> as Steve Jobs once said. This mindset drives me to bring energy and enthusiasm to every project, always aiming to tackle challenges and deliver the best results.
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake-dark.svg)
