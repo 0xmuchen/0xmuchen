@@ -1,7 +1,7 @@
 <h1 align="center"> Quick intro 👋 </h1>
 <p align="left">
 Hi, my name is Mykola (but you can call me Nick 🙂) <br>
-I'm a Quality Assurance Engineer with over 6 years of experience across various domains, including fintech, e-commerce, iGaming, and Web3 <br> 
+I'm a QA Engineer with over 6 years of experience across various domains, including fintech, e-commerce, iGaming, and Web3 <br> 
 
 I'm passionate about what I do and thrive on new challenges <br>
 </p>
