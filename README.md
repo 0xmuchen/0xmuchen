@@ -4,7 +4,6 @@ Hi, my name is Mykola (but you can call me Nick 🙂) <br>
 I'm a Quality Assurance Engineer with over 6 years of experience across various domains, including fintech, e-commerce, iGaming, and Web3 <br> 
 
 I’m passionate about what I do, and I’m grateful to have the opportunity to use my problem-solving skills to make products better <br>
-I thrive on ensuring the highest quality and delivering real value to both teams and end-users
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake-dark.svg)
