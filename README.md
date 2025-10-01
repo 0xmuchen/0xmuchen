@@ -19,7 +19,7 @@ This mindset drives me to bring energy and enthusiasm to every project, always a
   <li> ✅ Performance testing </li>
   <li> ✅ Web & Mobile Testing</li>
   <li> ✅ Business Analysis & Documentation</li>
-  <li> ✅ Basics of Security & Penetration Testing</li>
+  <li> ✅ Penetration Testing</li>
   <li> ✅ Smart Contract Testing & Auditing</li>
 </ul>
 
