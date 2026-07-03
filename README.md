@@ -12,27 +12,27 @@ This mindset drives me to bring energy and enthusiasm to every project, always a
 ![Snake animation](https://raw.githubusercontent.com/0xmuchen/0xmuchen/gh-pages/github-contribution-grid-snake-dark.svg)
 
 
-<h2>🎯 Expertise Scope</h2>
+<h2> Expertise Scope</h2>
 <ul>
-  <li> ✅ Manual & Automated Testing</li>
-  <li> ✅ BE / FE testing </li>
-  <li> ✅ Performance testing </li>
-  <li> ✅ Web & Mobile Testing</li>
-  <li> ✅ Business Analysis & Documentation</li>
-  <li> ✅ Penetration Testing</li>
-  <li> ✅ Smart Contract Testing & Auditing</li>
+  <li>  Manual & Automated Testing</li>
+  <li>  BE / FE testing </li>
+  <li>  Performance testing </li>
+  <li>  Web & Mobile Testing</li>
+  <li>  Business Analysis & Documentation</li>
+  <li>  Penetration Testing</li>
+  <li>  Smart Contract Testing & Auditing</li>
 </ul>
 
 
 <h2> Day-to-Day Responsibilities:</h2>
 
-### 📋 Documentation & Process Management  
+### Documentation & Process Management  
 - Creating **clear and complete** test documentation, including test plans and strategies  
 - Setting and maintaining **quality standards** across different phases of a project  
 - Estimating testing **timelines and resources** for better sprint planning  
 - Leading **client demos** and providing updates on testing progress  
 
-### 🛠 Quality Assurance / Quality Control
+###  Quality Assurance / Quality Control
 - Performing **manual and automated testing** across all levels  
 - Using a mix of **scripted test cases** and **exploratory testing** to find hidden issues  
 - Building **end-to-end automated tests** to check key user journeys  
@@ -41,7 +41,7 @@ This mindset drives me to bring energy and enthusiasm to every project, always a
 - Ensuring **cross-browser and multi-device compatibility**  
 - Supporting live **production releases** with last-minute checks and verifications  
 
-### 🔄 Communication & Teamwork  
+### Communication & Teamwork  
 - Writing **detailed bug reports** with clear steps to reproduce issues  
 - Leading **UAT sessions** with stakeholders and collecting their feedback  
 - Bringing **data-driven insights** to sprint planning and retrospectives to improve quality  
@@ -70,7 +70,7 @@ This mindset drives me to bring energy and enthusiasm to every project, always a
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
 <br>
 
-<h2>🏓 Fun Fact</h2>
+<h2> Fun Fact</h2>
 <p>
   I used to play <strong>table tennis professionally</strong> at the junior level  
   In the game, it wasn’t always about sheer power – winning often meant adapting, reading my opponent’s moves, and finding their weaknesses to exploit  
@@ -85,17 +85,3 @@ This mindset drives me to bring energy and enthusiasm to every project, always a
 </p>
 
 
-<!--
-**0xmuchen/0xmuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
