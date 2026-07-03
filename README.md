@@ -2,7 +2,7 @@
 <p align="left">
 Hi, my name is Mykola (but you can call me Nick 🙂) <br>
   
-With over 6 years of experience as a QA Engineer, I've worked across fintech, e-commerce, iGaming, and Web3.
+With over 7 years of experience as a QA Engineer, I've worked across fintech, e-commerce, iGaming, and Web3.
 
 
 I truly believe that <strong>"The only way to do great work is to love what you do,"</strong> as Steve Jobs once said. <br>
